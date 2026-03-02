@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmoud Alnaggar
 
-<!--
-**alnaggarux-dev/alnaggarux-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UX Designer | Product Designer | AI UX Operator
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **UX Researcher & Product Designer** dedicated to building digital experiences that are technically solid and deeply human-centric. With over 7 years of experience in **Technical Support and Telecommunications**, I don't just design screens; I solve complex problems.
+
+---
+
+## 🚀 My Unique Edge: AI-Enhanced UX
+
+I combine a "problem-solving" mindset with modern **AI-driven workflows** to deliver high-quality results with precision and speed.
+
+- **AI-Enhanced Workflow**: I utilize AI tools (like MCP servers and automated synthesis) to accelerate research, accessibility checks, and UI audits.
+- **Data-Driven Insights**: I specialize in turning complex data and user behavior into actionable insights and clear wireframes.
+- **Technical Foundations**: My background in **Cisco systems and Fiber Optics** gives me a unique edge in understanding technical constraints.
+
+---
+
+## 🛠️ Expertise & Tech Stack
+
+| **Design & Research** | **AI & Tools** | **Technical & OS** |
+| :--- | :--- | :--- |
+| UX Research & Strategy | AI-Driven Insights | Red Hat Linux |
+| UI Design & Prototyping | MCP Servers & Automation | Bash Scripting |
+| Accessibility Audits | CRM Systems Mastery | Cisco Systems & Fiber Optics |
+| User Journey Mapping | UI Audits | Technical Troubleshooting |
+
+---
+
+## 💼 Professional Experience
+
+- **UI/UX Designer | Huma-volve** (Dec 2025 - Present)
+- **Freelance UI/UX Designer** (June 2024 - Present)
+  - Delivering high-quality dashboard designs and interactive prototypes
+- **Technical Mentor | Xceed** (Oct 2023 - May 2024)
+  - Bridging the gap between design and development by communicating effectively with engineers
+- **Technical Support Specialist | Xceed & Amer Group** (2017 - 2024)
+  - Translating user frustrations into clear, actionable technical solutions
+
+---
+
+## 🎓 Certifications
+
+- **Certified User Experience Design (UX) & UI Design**
+- **Certified User Experience Fundamentals (UX)**
+- **UX Design Foundations**
+- **Mentorship Mastery**
+
+---
+
+## 📫 Connect with Me
+
+- **Portfolio**: [Behance](https://www.behance.net/alnaggaruxx) | [Dribbble](https://dribbble.com/alnaggarux)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/alnaggar-ux)
+- **Email**: alnaggar.ux@gmail.com
+- **Location**: Egypt
+
+---
+
+*"Making complex systems simple and intuitive."*
