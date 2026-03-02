@@ -23,9 +23,10 @@ I combine a "problem-solving" mindset with modern **AI-driven workflows** to del
 | **Design & Research** | **AI & Tools** | **Technical & OS** |
 | :--- | :--- | :--- |
 | UX Research & Strategy | AI-Driven Insights | Red Hat Linux |
-| UI Design & Prototyping | MCP Servers & Automation | Bash Scripting |
-| Accessibility Audits | CRM Systems Mastery | Cisco Systems & Fiber Optics |
-| User Journey Mapping | UI Audits | Technical Troubleshooting |
+| UI Design & Prototyping | Prompt Engineering | Bash Scripting |
+| Accessibility Audits | MCP Servers & Automation | Problem Solving |
+| User Journey Mapping | Usability Testing | Technical Troubleshooting |
+| Usability Testing | AI UI Audits | CRM Systems Mastery |
 
 ---
 
