@@ -4,7 +4,7 @@
 
 ---
 
-I am a **UX Researcher & Product Designer** with over 7 years of experience in **Technical Support and Telecommunications**. I don't just design screens — I solve complex problems and help businesses deliver exceptional user experiences faster.
+I am a **Product Designer & AI UX Operator** who transforms complex problems into intuitive, user-centered designs. With a strong foundation in UX research and 7+ years in technical problem-solving, I help businesses ship products faster — combining human-centered design with AI-powered workflows to deliver professional results with less time and effort.
 
 ---
 
