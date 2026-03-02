@@ -33,7 +33,7 @@ I am a **UX Researcher & Product Designer** with over 7 years of experience in *
 | UI Design & Prototyping | Prompt Engineering | Automation Workflows |
 | Accessibility Audits | AI Agents & Automation | Fast Production |
 | User Journey Mapping | Usability Testing | Design Systems |
-| Usability Testing | AI UI Audits | Team Collaboration |
+| A/B Testing | AI UI Audits | Team Collaboration |
 
 ---
 
