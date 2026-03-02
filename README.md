@@ -4,29 +4,36 @@
 
 ---
 
-I am a **UX Researcher & Product Designer** dedicated to building digital experiences that are technically solid and deeply human-centric. With over 7 years of experience in **Technical Support and Telecommunications**, I don't just design screens; I solve complex problems.
+I am a **UX Researcher & Product Designer** with over 7 years of experience in **Technical Support and Telecommunications**. I don't just design screens — I solve complex problems and help businesses deliver exceptional user experiences faster.
 
 ---
 
-## 🚀 My Unique Edge: AI-Enhanced UX
+## 🚀 How I Help Businesses & Teams
 
-I combine a "problem-solving" mindset with modern **AI-driven workflows** to deliver high-quality results with precision and speed.
+### ✨ AI-Powered Design Automation
+- **Accelerate Design Workflows**: I leverage **AI Agents & Automation** to streamline repetitive design tasks, reducing production time by up to 70%
+- **Fast Delivery**: Deliver high-quality designs in less time using AI-powered tools and intelligent workflows
+- **Consistent Quality**: Maintain professional, polished results while minimizing manual effort
 
-- **AI-Enhanced Workflow**: I utilize AI tools (like MCP servers and automated synthesis) to accelerate research, accessibility checks, and UI audits.
-- **Data-Driven Insights**: I specialize in turning complex data and user behavior into actionable insights and clear wireframes.
-- **Technical Foundations**: My background in **Technical Support** gives me a unique edge in understanding technical constraints.
+### 🔧 What I Bring to Your Team
+- **AI UX Strategy**: Integrate AI tools into your design process for faster prototyping, research, and testing
+- **Process Automation**: Automate design audits, accessibility checks, and documentation workflows
+- **Efficient Production**: Reduce design-to-development cycles with AI-assisted handoffs and clear specifications
+
+### 🎯 My Value Proposition
+> "I help companies ship better products faster — using AI to automate design processes, reduce effort, and deliver professional results with less time and resources."
 
 ---
 
 ## 🛠️ Expertise & Tech Stack
 
-| **Design & Research** | **AI & Tools** | **Technical & OS** |
+| **Design & Research** | **AI & Tools** | **Process & Skills** |
 | :--- | :--- | :--- |
-| UX Research & Strategy | AI-Driven Insights | Red Hat Linux |
-| UI Design & Prototyping | Prompt Engineering | Bash Scripting |
-| Accessibility Audits | MCP Servers & Automation | Problem Solving |
-| User Journey Mapping | Usability Testing | Technical Troubleshooting |
-| Usability Testing | AI UI Audits | CRM Systems Mastery |
+| UX Research & Strategy | AI-Driven Insights | Problem Solving |
+| UI Design & Prototyping | Prompt Engineering | Automation Workflows |
+| Accessibility Audits | AI Agents & Automation | Fast Production |
+| User Journey Mapping | Usability Testing | Design Systems |
+| Usability Testing | AI UI Audits | Team Collaboration |
 
 ---
 
@@ -48,7 +55,7 @@ I combine a "problem-solving" mindset with modern **AI-driven workflows** to del
 - **Certified User Experience Fundamentals (UX)**
 - **UX Design Foundations**
 - **Mentorship Mastery**
-  
+
 ---
 
 ## 📫 Connect with Me
@@ -60,4 +67,4 @@ I combine a "problem-solving" mindset with modern **AI-driven workflows** to del
 
 ---
 
-*"Making complex systems simple and intuitive."*
+*"Making complex systems simple and intuitive — with AI power."*
