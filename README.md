@@ -14,7 +14,7 @@ I combine a "problem-solving" mindset with modern **AI-driven workflows** to del
 
 - **AI-Enhanced Workflow**: I utilize AI tools (like MCP servers and automated synthesis) to accelerate research, accessibility checks, and UI audits.
 - **Data-Driven Insights**: I specialize in turning complex data and user behavior into actionable insights and clear wireframes.
-- **Technical Foundations**: My background in **Cisco systems and Fiber Optics** gives me a unique edge in understanding technical constraints.
+- **Technical Foundations**: My background in **Technical Support** gives me a unique edge in understanding technical constraints.
 
 ---
 
@@ -47,7 +47,7 @@ I combine a "problem-solving" mindset with modern **AI-driven workflows** to del
 - **Certified User Experience Fundamentals (UX)**
 - **UX Design Foundations**
 - **Mentorship Mastery**
-
+  
 ---
 
 ## 📫 Connect with Me
